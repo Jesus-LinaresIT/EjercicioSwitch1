@@ -1,0 +1,6 @@
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\bin\Debug\Ejercicio1_Switch.exe.config
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\bin\Debug\Ejercicio1_Switch.exe
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\bin\Debug\Ejercicio1_Switch.pdb
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\obj\Debug\Ejercicio1_Switch.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\obj\Debug\Ejercicio1_Switch.exe
+C:\Users\Jesus Linares\Desktop\Universidad\Introduccion a la informatica UES\Ejercicios\Ejercicio1_Switch\Ejercicio1_Switch\obj\Debug\Ejercicio1_Switch.pdb
